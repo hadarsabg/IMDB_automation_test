@@ -3,13 +3,17 @@ Datorama automation assignment
 
 please provide the following configuration files before running the program:
 
-login_info.properties - format: email:<email address>
+login_info.properties - format:
+
+                                email:<email address>
   
                                 password:<password>
                                 
                         located under "config/login_info.properties"
   
-tv_shows_file.properties - format: tv:<tvShow1,tvShow2,tvShow3...>
+tv_shows_file.properties - format:
+
+                                  tv:<tvShow1,tvShow2,tvShow3...>
 
                                    rating:<rating>
                                    
